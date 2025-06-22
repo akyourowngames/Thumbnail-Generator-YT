@@ -4,7 +4,7 @@ A stylish YouTube Thumbnail Generator made with HTML, CSS, and JavaScript, desig
 🧩 What It Does
 ✔️ Shows your custom text and title inside a YouTube-like thumbnail block
 ✔️ Generates multiple mock video blocks like a real YouTube page
-✔️ uploads files and images and updating text – purely for display and design preview
+✔️ No uploads or downloads – purely for display and design preview
 ✔️ Fully responsive layout – looks great on all devices
 ✔️ Perfect for demo purposes – frontend showcase, UI practice, or concept testing
 
@@ -25,5 +25,5 @@ JavaScript – Dynamic generation of thumbnail elements and data
 1️⃣ The page shows multiple video blocks like YouTube's grid
 2️⃣ You can type custom video titles or change dummy data
 3️⃣ Each block updates live to reflect your input
-4️⃣ No real thumbnails or uploads — just a mock UI experience, yu can upload it on yr own via code
+4️⃣ No real thumbnails or uploads — just a mock UI experience
 
